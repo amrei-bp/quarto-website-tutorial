@@ -1,0 +1,16 @@
+---
+title: "The secrets of life without sex: an oribatid mite perspective"
+author: 
+  - name: Jens Bast
+    affiliations:
+      - name:  University of Cologne, Germany
+date: 2024-11-04T10:15
+date-format: MMM DD, HH:mm
+published-title: "Time"
+categories:
+  - evolution session
+  - keynote
+  - monday
+
+abstract: Several oribatid mite species are rare evolutionary anomalies, as they maintain effective purifying selection and persisted and diversified over millions of years in the absence of sex. What ecological or genomic singularities allow for the escape of their dead-end fate? We generated chromosome-scale genome assemblies based on single individuals from natural populations of asexuals and sexual relatives to identify signatures of persistence without sex. We found that haplotypes evolve independently for at least 20 my in some species and might potentially contribute to novel routes of evolutionary innovation. We additionally test if a release from constraints of sex could lead to increased genomic plasticity (via structural variation) in asexuals. In contrast to the pattern for younger asexual animal taxa, asexual oribatid mites harbour lower TE loads compared to sexuals. This suggests that some predictions for asexual genome evolution might manifest only over the long-time. We speculate that large population sizes of oribatid mites might be the prerequisite to maintain genetic diversity and provide the means for effective selection. Ultimately, persistence in the absence of sex might require a specific combination of ecological factors and genetic mechanisms as demonstrated by these mites.
+---

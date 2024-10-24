@@ -3,29 +3,26 @@ project:
   
 website: 
   page-navigation: true
-  title: "Making sharable documents with Quarto" 
-  site-url: "https://openscapes.github.io/quarto-website-tutorial" 
+  title: "Book of abstracts, Swedish Bioinformatics Workshop 2024" 
+  site-url: "https://www.sbw2024.org/" 
   repo-url: https://github.com/openscapes/quarto-website-tutorial 
   repo-actions: [edit, issue]
   
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-By Openscapes, 2024"
+    left: "&copy; CC-By SBW2024, 2024"
     
   sidebar:
-    logo: "images/openscapes_hex.png"
+    logo: "images/SBW2024_logo_pink_final.png"
     pinned: true
     align: center
     tools: 
       - icon: globe
-        href: https://openscapes.org
-        text: "Openscapes.org"
+        href: https://www.sbw2024.org/
+        text: "Swedish Bioinformatics Workshop 2024"
       - icon: github
-        href: https://github.com/openscapes/quarto-website-tutorial
-        text: "Quarto website tutorial"
-      - icon: twitter
-        href: https://twitter.com/openscapes
-        text: "Openscapes Twitter"         
+        href: https://www.sbw2024.org/
+        text: "Book of Abstracts"        
 
     style: "docked"
     search: true
@@ -33,29 +30,29 @@ website:
     contents:
       - href: index.qmd
         text: Welcome
-      - explore.qmd
-      - section: quarto-workflows/index.qmd
-        contents: 
-          - quarto-workflows/browser.md
-          - quarto-workflows/rstudio.qmd
-          - quarto-workflows/jupyter.md 
-      - learning-more.qmd
-      - href: transition-from-rmarkdown.qmd
-        text: Transition from Rmd
+      - href: schedule1.qmd
+        text: Schedule Monday Nov 4th
+      - href: schedule2.qmd
+        text: Schedule Tuesday Nov 5th
+      - href: abstracts.qmd
+        text: Abstracts
+      - href: useful_information.qmd
+        text: Useful Information
+
 
 
 format:
   html:
+    embed-resources: true
     theme:
-      light: [cosmo, theme.scss] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
-      dark: [cosmo, theme-dark.scss]
+      light: [flatly] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
+      dark: [darkly]
     code-copy: true
     code-overflow: wrap
     toc: true
 
 
 filters:
-  - include-files.lua
   - quarto
 
   

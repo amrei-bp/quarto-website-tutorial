@@ -1,0 +1,29 @@
+---
+title: Abstracts
+listing:
+  contents: abstracts/*/*.qmd
+  id: abstracts
+  type: table
+  table-striped: true
+  categories: true
+  date-format: MMM DD, HH:mm
+  sort: "date asc"
+
+---
+
+
+:::: {.content-visible when-format="html"}
+
+::: {#abstracts}
+
+:::
+
+::::
+
+
+
+:::: {.content-visible when-format="pdf"}
+
+// Add parser here
+
+::::

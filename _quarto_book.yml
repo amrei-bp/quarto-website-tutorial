@@ -1,0 +1,22 @@
+project:
+  type: book
+
+book:
+  title: "Book of abstracts, Swedish Bioinformatics Workshop 2024" 
+  author: "Jane Doe"
+  date: "8/18/2021"
+  chapters:
+      - index.qmd
+      - schedule1.qmd
+      - schedule2.qmd
+      - abstracts.qmd
+      - useful_information.qmd
+      - team.qmd
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+  epub:
+    cover-image: images/SBW2024_logo_pink_final.png

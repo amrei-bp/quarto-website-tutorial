@@ -1,0 +1,26 @@
+---
+title: "The dynamic evolution of the heme biosynthesis in Planctomycetota bacteria"
+author: "Alejandro Jiménez-González"
+authors:
+  - name: Alejandro Jiménez-González
+    affiliations:
+      - ref: uf
+  - name: Karl Dyrhage
+    affiliations:
+      - ref: uf
+  - name: Emil Hägglund
+    affiliations:
+      - ref: uf
+  - name: Siv G. E. Andersson
+    affiliations:
+      - ref: uf
+affiliations:
+  - id: uf
+    name: Molecular Evolution, Department of Cell and Molecular Biology, Biomedical Centre, Uppsala University, Uppsala, Sweden
+date: 2024-11-04T10:45
+categories:
+  - evolution session
+  - monday
+
+abstract: The authors have not consented to publishing their abstract. 
+---

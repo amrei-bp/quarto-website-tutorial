@@ -1,0 +1,29 @@
+---
+title: "Exceptional genetic variation at MHC class II genes in Atlantic herring unveiled through long-read sequencing"
+author: "Fahime Mohamadnejad Sangdehi"
+authors:
+  - name: Fahime Mohamadnejad Sangdehi
+    affiliations:
+      - ref: uf
+  - name: Minal S. Jamsandekar
+    affiliations:
+      - ref: ue
+  - name: Brian W Davis
+    affiliations:
+      - ref: ue
+  - name: Leif Andersson
+    affiliations:
+      - ref: uf
+      - ref: ue
+affiliations:
+  - id: uf
+    name: Department of Medical Biochemistry and Microbiology, Uppsala University, Uppsala, Sweden
+  - id: ue
+    name: Department of Veterinary Integrative Biosciences, Texas A&M University, College Station, USA
+date: 2024-11-04T11:00
+categories:
+  - evolution session
+  - monday
+
+abstract: The authors have not consented to publishing their abstract. 
+---

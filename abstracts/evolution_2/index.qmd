@@ -1,0 +1,35 @@
+---
+title: "Sperm DNA methylation landscape and its links to semen quality in a non-model teleost"
+author: "Fotis Pappas"
+
+authors:
+  - name: Fotis Pappas
+    affiliations:
+      - ref: uf
+  - name: Martin Johnsson
+    affiliations:
+      - ref: uf
+  - name: Göran Andersson
+    affiliations:
+      - ref: uf
+  - name: Paul Debes
+    affiliations:
+      - ref: ue
+  - name: Christos Palaiokostas
+    affiliations:
+      - ref: uf
+affiliations:
+  - id: uf
+    name: Department of Animal Biosciences, Swedish University of Agricultural Sciences, Uppsala, Sweden 
+  - id: ue
+    name: Department of Aquaculture and Fish Biology, Hólar University, Sauoarkrokur, Iceland
+
+date: 2024-11-04T11:15
+
+categories:
+  - evolution session
+  - monday
+
+abstract: The authors have not consented to publishing their abstract. 
+---
+
